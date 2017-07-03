@@ -1,2 +1,2 @@
 # hello-world
-Lear to use gidhub
+Learn to use gidhub
